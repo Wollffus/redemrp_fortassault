@@ -1,0 +1,18 @@
+{
+    "version":1.3,
+    "changelog" : "2023 RedEM Framework Update",
+    "old":[
+        {
+            "version":1.2,
+            "changelog" : "Code cleanup, no start bug removed"
+        },
+        {
+            "version":1.1,
+            "changelog" : "Version check"
+        },
+        {
+            "version":1.0,
+            "changelog" : "First Release"
+        }
+    ]
+}
